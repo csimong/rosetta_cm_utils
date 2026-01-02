@@ -1,2 +1,5 @@
 ## Outputs
 /*.grishin
+
+# pycache
+__pycache__

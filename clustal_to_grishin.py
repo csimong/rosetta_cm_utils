@@ -34,20 +34,20 @@ python new_ch_convert.py examples/convert_aln_to_grishin/COX3gg_COX3hs.aln  \
 Created by:
   Name(s):        Carolina Simón Guerrero
   Email(s):       carolina.simon.guerrero@gmail.com
-  Since:       2025-12-23
+  Since:          2025-12-23
 
 Maintained by:
   Name(s):        Carolina Simón Guerrero, Jose Luis Cabrera Alarcón, Marina Rosa Moreno
   Email(s):       carolina.simon.guerrero@gmail.com, joseluis.cabrera@cnic.es, marina.rosa@cnic.es
-  Since:       2025-12-23
+  Since:          2025-12-23
 
 Institution:
-  Name:        Spanish National Centre for Cardiovascular Research - CNIC
-  Unit/Group:  Functional Genetics of the Oxidative Phosphorylation System (GENOXPHOS) Lab
-  Address:     Madrid, Spain
-  Website:     https://www.cnic.es/en/investigacion/functional-genetics-oxidative-phosphorylation-system-genoxphos
+  Name:           Spanish National Centre for Cardiovascular Research - CNIC
+  Unit/Group:     Functional Genetics of the Oxidative Phosphorylation System (GENOXPHOS) Lab
+  Address:        Madrid, Spain
+  Website:        https://www.cnic.es/en/investigacion/functional-genetics-oxidative-phosphorylation-system-genoxphos
 
-Repository/URL: https://github.com/csimong/rosetta_cm_utils
+Repository/URL:    https://github.com/csimong/rosetta_cm_utils
 
 """
 

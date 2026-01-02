@@ -13,8 +13,8 @@ Example:
  $ python octopus2span.py examples/topcons/COX3gg.octopus -o examples/topcons/COX3gg.span
 
 
-Notes on helix-line format:
-- Default outputs 4 columns: start end start end (numbers repeated once).
+Notes:
+- Default outputs 4 columns on helix-line format: start end start end (numbers repeated once).
 - Can switch to 2 columns (start end) with --columns 2 if needed.
 - If a directory is passed, it will search recursively and use the first file named 'query.result.txt'.
 

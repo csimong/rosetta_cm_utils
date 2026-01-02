@@ -17,3 +17,6 @@ python3 /home/csimon/cnic/rosetta_cm_utils/get_span_file.py --topcons-script /ho
 
 ### octopus_launch.py usage
 python octopus2span.py examples/topcons/COX3gg.octopus -o examples/topcons/COX3gg.span
+
+## threading_over_template.py usage
+python threading_over_template.py --fasta examples/threading/COX3gg.fasta --alignment examples/threading/COX3gg_COX3hs.grishin --template examples/threading/COX3hs.pdb --out examples/threading/ --rosetta-bin ~/cnic/rosetta3.10/rosetta-3.10/main/source/bin/partial_thread.static.linuxgccrelease 

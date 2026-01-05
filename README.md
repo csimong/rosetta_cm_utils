@@ -18,7 +18,7 @@ python clustal_to_grishin.py examples/convert_aln_to_grishin/COX3gg_COX3hs.aln  
 ### get_span_file.py usage
 python3 /home/csimon/cnic/rosetta_cm_utils/get_span_file.py --topcons-script /home/csimon/cnic/rosetta_cm_utils/topcons_launch.py    --seq /home/csimon/cnic/rosetta_cm_utils/examples/topcons/COX3gg.fasta     --output-topcons /home/csimon/cnic/rosetta_cm_utils/examples/topcons/output_topcons     --jobname COX3_gg     --poll 60  --octopus-out /home/csimon/cnic/rosetta_cm_utils/examples/topcons/
 
-### octopus_launch.py usage
+### octopus2span.py usage
 python octopus2span.py examples/topcons/COX3gg.octopus -o examples/topcons/COX3gg.span
 
 ## threading_over_template.py usage
